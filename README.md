@@ -7,7 +7,8 @@ CPS842-assignment2
 - Search.py implements the vector space model for finding similarity between the documents and the query
 	- It takes about 47 seconds to generate an ordered list of relevant documents for each query
 		- That time is mostly allocated to the calculation of similarity between all the documents vectors and the query vector
-			 - Can be optimized further but unsure how to and don't have the time.
+			 - Can be optimized further but didn't have the time at the moment.
+			 	- Numpy or even Pytorch can be used to handle the multi-dimensional vectors much more efficiently than vanilla arrays.
 	
 How to run:
 	- If you only want to search 1 query in the collection, or want to use search externally:
