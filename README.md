@@ -1,4 +1,6 @@
-# CPS842-assignment2
+# Generates inverted index for a collection of documents 
+
+CPS842-assignment2
 
 - Invert.py generates postingList and dictionary (not used for assignment 2)
 
