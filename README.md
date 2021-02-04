@@ -1,6 +1,6 @@
-# Generates inverted index for a collection of documents 
+# CPS842-assignment1
 
-CPS842-assignment2
+The purpose of this assignment was to take a collection of documents and generate its inverted index using the vector space model. 
 
 - Invert.py generates postingList and dictionary (not used for assignment 2)
 
