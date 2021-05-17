@@ -1,4 +1,6 @@
-# CPS842-assignment1
+# CACM-Searcher 
+
+CPS842-assignment1
 
 The purpose of this assignment was to take a collection of documents and generate its inverted index using the vector space model. 
 
