@@ -20,10 +20,8 @@ How to run:
 		or
 		setup()
 		search("Query we want to search for")
-		
 		- Returns the list of ALL relevant results to the query according to the IR
-
-	-Else if we want an interface, simply run interface()
+	-Else, if we want a text interface, simply run interface()
 		- This will also print the top-K documents along with the titles and authors
 
 - Eval.py evaluates the results of search.py
